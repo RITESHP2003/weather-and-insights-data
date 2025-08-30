@@ -1,0 +1,16 @@
+{
+  "last_updated": "2023-10-27T10:00:00Z",
+  "map_overview_insight": "The Northern Hemisphere is experiencing a heatwave...",
+  "global_extremes_insight": "Today's most extreme weather event is...",
+  "top_bottom_cities_insight": "Cities in the Middle East dominate today's heat list...",
+  "temp_humidity_correlation_insight": "A weak negative correlation is observed today...",
+  "wind_analysis_insight": "Coastal cities in Southeast Asia are experiencing...",
+  "condition_distribution_insight": "Globally, 'Partly Cloudy' is the most common...",
+  "temperature_trend_insight": "London's temperature has risen steadily...",
+  "aqi_geospatial_insight": "Significant air quality issues are concentrated...",
+  "pollutant_composition_insight": "In Delhi, PM2.5 particulate matter is the primary...",
+  "city_aqi_profile_insight": "Tokyo's air quality is excellent across all metrics...",
+  "comparison_summary_insight": "This is a placeholder; the real comparison is generated dynamically or can provide a general instruction.",
+  "comparison_pollutant_insight": "Use this tool to compare pollutant levels between two cities.",
+  "comparison_astro_insight": "Sunrise and sunset times are driven by latitude and time of year."
+}
